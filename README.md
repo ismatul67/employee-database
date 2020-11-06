@@ -1,6 +1,6 @@
 # employee-database
 
-### Import SQL Database (you can select step A or B)
+# Import SQL Database (you can select step A or B)
 
 ## A. Import Database using workbench
 ```
